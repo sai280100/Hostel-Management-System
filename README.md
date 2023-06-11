@@ -60,7 +60,7 @@ https://hmsmini.herokuapp.com/
 
 
 ## 🚀 About Me
-Hi👋, I'm karthik.
+Hi👋, I'm JayaSai Pavan.
 Student at Vellore Institute of Technology Vellore.
 
 
@@ -70,5 +70,5 @@ Javascript, HTML, CSS, C++, Java, ML
 
 ## Support
 
-For support, email dasarikarthik559@gmail.com.
+For support, email kunchalajayasai@gmail.com.
 
